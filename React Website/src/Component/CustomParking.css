@@ -1,0 +1,45 @@
+#validationTooltip01{
+    width:70%;
+    margin-left: 10%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#Label{
+    position: relative;
+    left:-33%;
+    font-size: 20px;
+    font-weight: 600;
+    width:40%;
+    padding-top: 2%;
+}
+
+.Spot{
+    margin-left: 15%;
+}
+
+div.mainDiv:hover{
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+}
+
+div.mainDiv:focus{
+    border:2px solid #BC0063 !important;
+}
+
+
+.email{
+    margin-left: 18px;
+}
+
+.phone{
+    margin-left: 19%;
+}
+
+.plate{
+    margin-left: 18%;
+}
+
+
+.btn:active,.btn:focus{
+    border:red !important;
+}

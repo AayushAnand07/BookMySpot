@@ -1,0 +1,4 @@
+
+.Tr:nth-child(even){
+    background-color: #F9D8DD;
+}

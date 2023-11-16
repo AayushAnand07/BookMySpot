@@ -1,0 +1,30 @@
+<Grid container rowSpacing={5} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
+  <Grid item xs={6}>
+    <CardComp/>
+  </Grid>
+  <Grid item xs={6}>
+  <Booking/>
+  </Grid>
+  <Grid item xs={6}>
+  <Vacant/>
+  </Grid>
+  <Grid item xs={6}>
+  <CardComp/>
+  </Grid>
+  <Grid item xs={6}>
+  <CardComp/>
+  </Grid>
+</Grid>  
+
+
+
+<div style={{alignItems: "center",display:"flex",backgroundColor:"#DBECF4",width:"11%",borderRadius:"20px",justifyContent:"center"}}>
+    <FormControlLabel
+        control={<MaterialUISwitch sx={{ m: 1 }}/>}
+        onClick={HandleonClick}
+      />
+      
+      <Link to="/" onClick={HandleonLink}>
+      <AccountCircleIcon fontSize="large" style={{color:"black"}}/>
+      </Link>
+   </div>

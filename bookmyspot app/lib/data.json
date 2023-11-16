@@ -1,0 +1,123 @@
+{
+
+"data":[
+  {
+  "ParkingName": "Parking Area-1",
+  "Address": "Malad , Mumbai , 400026",
+  "Charge": "₹50",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+},{
+  "ParkingName": "Parking Area-2",
+  "Address": "Chembur , Mumbai , 400026",
+  "Charge": "₹60",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+},{
+  "ParkingName": "Parking Area-3",
+  "Address": "Seawoods ,Navi Mumbai , 410209",
+  "Charge": "₹40",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+},{
+  "ParkingName": "Parking Area-4",
+  "Address": "Bandra , Mumbai , 400029",
+  "Charge": "₹50",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+},{
+  "ParkingName": "Parking Area-5",
+  "Address": "Andheri , Mumbai , 400020",
+  "Charge": "₹60",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+},{
+  "ParkingName": "Parking Area-6",
+  "Address": "CST , Mumbai , 400026",
+  "Charge": "₹30",
+  "ImageUrl": "https://user-images.githubusercontent.com/41218074/233764516-b1a1c47e-7e0a-4417-b06c-da6272978e58.jpg",
+  "Description":"Our parking area is fully paved and well-lit, providing a clean and secure environment for your vehicle. We have ample space for all types of vehicles, from compact cars to oversized trucks. Our parking spots are clearly marked, making it easy for you to find a spot that suits your needs.",
+  "Availability": "6",
+  "Spots":
+    {
+      "A1": "Empty",
+      "A2": "Empty",
+      "A3": "Empty",
+      "A4": "Empty",
+      "A5": "Empty",
+      "A6": "Empty"
+
+    }
+
+
+}
+  ]
+
+
+
+}

@@ -1,0 +1,73 @@
+.dropbtn {
+    background-color: #BC0063;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    max-height:55px;
+    
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #1C1C1C;
+    min-width: 175px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 15px;
+    height: 140px;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #EC6C21;color:white}
+  
+  /* Show the dropdown menu on hover */
+
+  a,#blue{
+    text-decoration: none !important;
+  }
+
+  a:hover{
+    color:#D04C91;
+  }
+
+  .NavFont{
+    font-size:larger;
+    font-weight: 100;
+    font-family: "poppins";
+    padding-top: 2px;
+  }
+
+  h2{
+    font-size: larger;
+    font-family: 'poppins';
+  }
+  .dropdown-content a{
+    max-width: 90%;
+    margin-left: 5%;
+    height:50px;
+    border-radius: 10px;
+  }
+
+
+#Title{
+    font-size: 40px;
+}
